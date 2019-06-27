@@ -1,0 +1,46 @@
+[
+    {
+        "id": "e20150456",
+        "firstname": "Doctor",
+        "lastname": "Strang",
+        "pass": "123",
+        "role": "user",
+        "sex": "Male",
+        "phone": "0237845783",
+        "email": "hello@gmail.com",
+        "group": "GIC-I4"
+    },
+    {
+        "id": "e20150457",
+        "firstname": "phearum",
+        "lastname": "nop",
+        "pass": "1234",
+        "role": "admin",
+        "sex": "Male",
+        "phone": "015949757",
+        "email": "phearumgic@gmail.com",
+        "group": "GIC-I4"
+    },
+    {
+        "id": "e20150456",
+        "firstname": "Captan",
+        "lastname": "Mavel",
+        "pass": "12345",
+        "role": "user",
+        "sex": "Male",
+        "phone": "0194543589",
+        "email": "user1@gmail.com",
+        "group": "GIC-I3"
+    },
+    {
+        "id": "e20150457",
+        "firstname": "Spider",
+        "lastname": "Man",
+        "pass": "123456",
+        "role": "user",
+        "sex": "Male",
+        "phone": "0237845783",
+        "email": "hello@gmail.com",
+        "group": "GIC-I5"
+    }
+]
